@@ -1,0 +1,61 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.Main-Navigation-div {
+    display: flex;
+    height: 80px;
+    background-color: white;
+    overflow: hidden;
+    box-shadow: 10px 10px 5px lightblue;
+margin-bottom: 20px;
+
+}
+
+
+.ul-Navigation-div {
+    display: flex;
+    justify-content: left;
+    color: black;
+    gap: 30px;
+    border-radius: 15px;
+    margin-left: 10%;
+    margin-top: 25px;
+    list-style: none;
+
+
+}
+
+
+
+.NavLi {
+    color: black;
+    text-decoration: none;
+}
+
+.profile-icon{
+    font-size: 22px;
+    /* margin-left: 15rem; */
+}
+.bucket-icon{
+    font-size: 22px;
+    margin-left: 15rem;
+   
+}
+.NavLogo {
+    width: 120px;
+    margin-top: -20px;
+    margin-left: 150px;
+    filter: brightness(1.5);
+    /* position: inherit; */
+}
+
+@media  screen and (max-width:600px) {
+
+    .Main-Navigation-div{
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,35 @@
+.mainsss {
+   
+    /* background-color: rgb(83, 86, 83); */
+    height: 100vh;
+    width: 100wh;
+    background-size: auto;
+    padding-left: 200px;
+    padding-top: 100px;
+
+}
+
+.datadisc {
+    background-color: aliceblue;
+    height: 300px;
+    width: 800px;
+    padding-top: 5px;
+
+}
+
+.Linkss {
+    display: flex;
+    justify-content: space-around;
+  padding-top: 10px;
+    background-color: rgb(200, 184, 214);
+    
+
+}
+
+.mainh1{
+    display: flex;
+    justify-content: center;
+}
+.mains{
+    margin-left: 20px;
+}

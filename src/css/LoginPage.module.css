@@ -1,0 +1,18 @@
+.LoginPage_main {
+    background-color: rgb(243, 204, 146);
+    border-radius: 10px;
+    width: 280px;
+    height: 300px;
+    margin-top: 130px;
+
+
+}
+
+
+.loginbtn {
+    width: 150px;
+    background-color: rgb(92, 18, 230);
+    border-radius: 15px 0px 15px 0px;
+    margin-top: 20px;
+    color: white;
+}

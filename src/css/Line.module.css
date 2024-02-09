@@ -1,0 +1,16 @@
+.MainLine {
+    background-color: rgb(90, 93, 94);
+    /* color: red; */
+    color: aliceblue;
+    height: 40px;
+  
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

@@ -1,0 +1,65 @@
+.Maindiv {
+    background-image: url(Contact_bg.jpg);
+    height: 100vh;
+
+}
+
+.Heading {
+    /* color: aliceblue; */
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+.Img1 {
+    color: aliceblue;
+
+
+}
+
+.Data {
+    margin-left: 150px;
+    padding-top: 190px;
+}
+
+.img {
+    border-radius: 15px;
+    width: 40px;
+}
+
+.datas {
+    color: azure;
+    margin-left: 70px;
+    margin-top: -45px;
+}
+
+.page {
+    margin-left: 700px;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+    text-align: justify;
+    padding-left: 30px;
+    margin-top: 20px;
+    border: none;
+}
+
+.h4 {
+    padding-top: 20px;
+    color: white;
+    text-align: justify;
+    margin-left: 80px;
+
+}
+
+.button {
+    background-color: blueviolet;
+    width: 100px;
+    /* margin-bottom: -100px;     */
+    height: 30px;
+}
